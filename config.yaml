@@ -1,0 +1,31 @@
+consonants:
+- k
+- g
+- w
+- j
+- gy
+- ky
+- s
+- sh
+generate_cc: false
+generate_cr: false
+generate_cv: true
+generate_vc: true
+generate_vcv: true
+generate_vv: true
+max_consonants: 1
+max_mora: 5
+min_mora: 2
+restrictions:
+- - k
+  - a
+- - k
+  - i
+splitter: _
+vowels:
+- a
+- i
+- u
+- e
+- o
+- N
